@@ -5,7 +5,7 @@
 apt-get install whois
 ~~~~
 
-##Ejecutar
+## Ejecutar
 ~~~~
 sh whois.sh
 ~~~~~
